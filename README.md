@@ -11,4 +11,4 @@ Here is a link to the deployed webpage https://beshayr2020.github.io/Update-Port
 HTML, CSS, SCSS, Javascript, jQuery, Bootstrap, and Font Awesome
 
 # Visuals
-![Portfolio](assets\images\portfolio.jpg)
+![Portfolio Image](./assets/images/portfolio.jpg)
